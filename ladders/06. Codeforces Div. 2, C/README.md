@@ -60,11 +60,11 @@
 |<ul><li>- [x] Done</li></ul>|53|[Fight the Monster](http://codeforces.com/problemset/problem/487/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|54|[Triangle](http://codeforces.com/problemset/problem/407/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|55|[View Angle](http://codeforces.com/problemset/problem/257/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|56|[King's Path](http://codeforces.com/problemset/problem/242/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|56|[King's Path](http://codeforces.com/problemset/problem/242/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|57|[Round Table Knights](http://codeforces.com/problemset/problem/71/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|58|[Purification](http://codeforces.com/problemset/problem/329/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|59|[Maxim and Discounts](http://codeforces.com/problemset/problem/261/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|60|[The Closest Pair](http://codeforces.com/problemset/problem/311/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|58|[Purification](http://codeforces.com/problemset/problem/329/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|59|[Maxim and Discounts](http://codeforces.com/problemset/problem/261/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|60|[The Closest Pair](http://codeforces.com/problemset/problem/311/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|61|[Divisible by Seven](http://codeforces.com/problemset/problem/375/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|62|[Hometask](http://codeforces.com/problemset/problem/154/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|63|[Little Elephant and Interval](http://codeforces.com/problemset/problem/204/A)|Codeforces|4|
