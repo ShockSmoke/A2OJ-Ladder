@@ -70,9 +70,9 @@
 |<ul><li>- [x] Done</li></ul>|63|[Little Elephant and Interval](http://codeforces.com/problemset/problem/204/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|64|[Dorm Water Supply](http://codeforces.com/problemset/problem/107/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|65|[Shaass and Lights](http://codeforces.com/problemset/problem/294/C)|Codeforces|5|
-|<ul><li>- [ ] Done</li></ul>|66|[Prime Number](http://codeforces.com/problemset/problem/359/C)|Codeforces|5|
+|<ul><li>- [x] Done</li></ul>|66|[Prime Number](http://codeforces.com/problemset/problem/359/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|67|[The Brand New Function](http://codeforces.com/problemset/problem/243/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|68|[About Bacteria](http://codeforces.com/problemset/problem/198/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|68|[About Bacteria](http://codeforces.com/problemset/problem/198/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|69|[Malek Dance Club](http://codeforces.com/problemset/problem/319/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|70|[Dima and Containers](http://codeforces.com/problemset/problem/358/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|71|[Trains](http://codeforces.com/problemset/problem/87/A)|Codeforces|4|
