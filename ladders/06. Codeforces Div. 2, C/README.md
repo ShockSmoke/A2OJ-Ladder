@@ -66,10 +66,10 @@
 |<ul><li>- [x] Done</li></ul>|59|[Maxim and Discounts](http://codeforces.com/problemset/problem/261/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|60|[The Closest Pair](http://codeforces.com/problemset/problem/311/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|61|[Divisible by Seven](http://codeforces.com/problemset/problem/375/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|62|[Hometask](http://codeforces.com/problemset/problem/154/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|63|[Little Elephant and Interval](http://codeforces.com/problemset/problem/204/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|64|[Dorm Water Supply](http://codeforces.com/problemset/problem/107/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|65|[Shaass and Lights](http://codeforces.com/problemset/problem/294/C)|Codeforces|5|
+|<ul><li>- [x] Done</li></ul>|62|[Hometask](http://codeforces.com/problemset/problem/154/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|63|[Little Elephant and Interval](http://codeforces.com/problemset/problem/204/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|64|[Dorm Water Supply](http://codeforces.com/problemset/problem/107/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|65|[Shaass and Lights](http://codeforces.com/problemset/problem/294/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|66|[Prime Number](http://codeforces.com/problemset/problem/359/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|67|[The Brand New Function](http://codeforces.com/problemset/problem/243/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|68|[About Bacteria](http://codeforces.com/problemset/problem/198/A)|Codeforces|4|
